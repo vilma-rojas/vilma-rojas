@@ -1,6 +1,6 @@
 <h1>Vilma Rojas </h1>
 
-
+C++ Python JavaScript ReactJS VueJS Angular NodeJS Meteor .Net Spring Firebase HTML 5 CSS Adobe Photoshop Adobe Illustrator Bootstrap GitHub
 
 ⭐️ Soy una persona responsable, organizada, comprometida, objetiva.
 
