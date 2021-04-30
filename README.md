@@ -1,8 +1,17 @@
 <h1>Vilma Rojas </h1>
 
-<h3>Tecnologias</h3>
+<market>Front-End  Back-End</market>
 
-<mark>C++ JavaScript ReactJS VueJS Angular NodeJS Spring HTML 5 CSS Bootstrap GitHub</mark>
+Vue Js         Node Js      
+React Js       Laravel       
+Angular Js     Spring
+JavaScript     .Net
+JQuery         Php
+Bootstrap      Django
+CSS            Mongo DB
+HTML           SQL Server
+               C++, C
+               Java 8
 
 <h2>Sobre mí</h2>
 
