@@ -1,10 +1,10 @@
 <h1>Vilma Rojas </h1>
 
 <h4>Front-End</h4>
-Vue Js React Js Angular Js JavaScript JQuery Bootstrap CSS3 HTML5
+JavaScript JQuery Bootstrap CSS3 HTML5
 
 <h4>Back-End</h4>
-Node Js Laravel Spring .Net Php DJango Mongo DB SQL Server C++ C Java 8
+Node Js SQL Server C++ C Java 8
 
 <h2>Sobre mí</h2>
 
