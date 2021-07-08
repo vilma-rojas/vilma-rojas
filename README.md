@@ -1,4 +1,4 @@
-<h1>!Hola, soy Vilma Rojas! </h1>
+<h1>¡Hola, soy Vilma Rojas! </h1>
 
 <h4>Front-End</h4>
 JavaScript JQuery Bootstrap CSS3 HTML5
@@ -23,4 +23,7 @@ Node Js SQL Server C++ C Java 8
 <h2>Contactos</h2>
 
 vilma_diana@outlook.com
+
+[![vilma-rojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/vilma-rojas/github-readme-stats)
+
 
