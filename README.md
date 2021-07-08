@@ -24,6 +24,6 @@ Node Js SQL Server C++ C Java 8
 
 vilma_diana@outlook.com
 
-[![vilma-rojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/vilma-rojas/github-readme-stats)
+[![vilma-rojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilma-rojas)](https://github.com/vilma-rojas/github-readme-stats)
 
 
