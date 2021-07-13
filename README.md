@@ -1,4 +1,4 @@
-<h1 align="center" >¡Hola, soy 👋 <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
+<h1 align="center" >¡Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
 <p align="center">
         <samp>
                 De Buenos Aires, Argentina
@@ -64,7 +64,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 <h2 align="center">Mas Informacion</h2>
 <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas" 
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas" />
 
 
 
