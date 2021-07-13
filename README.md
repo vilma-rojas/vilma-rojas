@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras. Me encuentro en la búsqueda de mi primer empleo IT, con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error cometido.Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.
-<br>
+<br> <br>
 Obtenga más información sobre mí y no dude en conectarse conmigo 
 </p>
 <p align="center">
@@ -57,7 +57,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 <br>
 <br>
 
-### Proyectos
+<h2 align="center">Proyectos</h2>
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -65,7 +66,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-
+<h2 align="center">Mas Informacion</h2>
 <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas" 
 
