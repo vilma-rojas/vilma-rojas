@@ -1,5 +1,5 @@
-<h1 align="center" >Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
-<p align="center">
+# Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
+<p>
 ¡Hola! Mi nombre es Vilma, soy Full Stack Developer con base en Buenos Aires, Argentina .
 Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>             
 Soy desarrollador Full Stack con muchas tecnologías diferentes, pero me especializo en los stacks de Spring y Hibernate.
@@ -7,20 +7,20 @@ La programación es algo que realmente me apasiona, encuentro muy entretenido ha
 <br> <br>
 Obtenga más información sobre mí y no dude en conectarse conmigo 
 </p>
-<p align="center">
+<p>
     <a target="_blank" href="mailto:vilma.rojflo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
     <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
     <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> </p>
   
 </p>
 
-<h2 align="center" >Tecnologias</h2>
-<p align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
+<h2>Tecnologias</h2>
+<p>
+    <img src="https://camo.githubusercontent.com/853b45542fee148bebfbe055a687fbe46132d042977a0cc64aa04330651e4202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465"></img>
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></img>
-    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></img>
+    <img src="https://camo.githubusercontent.com/a1159d37bd6a45eece6595133d473be1b70836180be9e5cc98342eff6b0a2059/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163744a532d3631444246423f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465"></img>
     <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></img>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"></img>
+    <img src="https://camo.githubusercontent.com/8388931ce4b7c34ed65045a5c1f236ae419235e3368b074ea37e0516c77983ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"></img>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"></img>
@@ -62,7 +62,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-<h2 align="center">Proyectos</h2>
+<h2>Proyectos</h2>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) <br>
@@ -71,8 +71,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-<h2 align="center">Mas Informacion</h2>
-<p align="center">
+<h2>Mas Informacion</h2>
+<P>
     <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
     <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas" />
 </p>
