@@ -9,9 +9,8 @@
                 <br>
         </samp>
         <details align="center">
-            <summary> <samp>&#9776; Leer Mas </samp></summary>
+           <!-- <summary> <samp>&#9776; Leer Mas </samp></summary> -->
                 <p align="center">
-                    <br>
                     <p>
                         Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras. Me encuentro en la búsqueda de mi primer empleo IT, con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error cometido.Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.</p> <br>
                     <p>Obtenga más información sobre mí y no dude en conectarse conmigo </p>        
@@ -24,7 +23,7 @@
   
 </p>
 
-
+## Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -54,7 +53,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-## Acerca de mi
+<!--## Acerca de mi
 
 ⭐️ Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras.
 
@@ -72,7 +71,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&hide=TeX&layout=compact)
 
-![GitHub Estados Vilma Rojas](https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&theme=dracula)
+![GitHub Estados Vilma Rojas](https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&theme=dracula)-->
 
 
 <!-- [![vilma-rojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilma-rojas)](https://github.com/vilma-rojas/github-readme-stats)
@@ -82,7 +81,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
-
+<!--
 <h3 align="center">
         <samp>&gt; Hola!, Soy
                 <b><a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a></b>
@@ -91,7 +90,6 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 <br>
 
 <p align="center">
-        <!-- Organisation  -->
         <samp>
                 「 De Buenos Aires, Argentina 」
                 <br>
@@ -108,4 +106,4 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas" />
 
-<br>¡Hola, soy Vilma Rojas! 👋 
+<br>¡Hola, soy Vilma Rojas! 👋 -->
