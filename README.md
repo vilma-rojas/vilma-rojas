@@ -4,7 +4,8 @@
         <samp>
                 「 De Buenos Aires, Argentina 」
                 <br>
-                「 Estudiante Ingenieria en sistemas de Informacion @<b> Universidad Tecnologica Nacional</b> 」
+                「 Estudiante Ingenieria en sistemas de Informacion @<b> <a href="https://www.frba.utn.edu.ar/">Universidad Tecnologica Nacional</a>                
+                </b> 」
                 <br>
                 <br>
         </samp>
