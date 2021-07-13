@@ -1,4 +1,4 @@
-<h1 align="center" >¡Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
+<h1 align="center" >Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
 <p align="center">
         <samp>
                 De Buenos Aires, Argentina
@@ -66,9 +66,9 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas" />
 
+<!-- 
 
-
-<!--## Acerca de mi
+## Acerca de mi
 
 ⭐️ Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras.
 
@@ -86,10 +86,10 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&hide=TeX&layout=compact)
 
-![GitHub Estados Vilma Rojas](https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&theme=dracula)-->
+![GitHub Estados Vilma Rojas](https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&theme=dracula)
 
 
-<!-- [![vilma-rojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilma-rojas)](https://github.com/vilma-rojas/github-readme-stats)
+[![vilma-rojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilma-rojas)](https://github.com/vilma-rojas/github-readme-stats)
 
 <a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a> <br>
 -->
