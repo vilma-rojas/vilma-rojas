@@ -13,19 +13,17 @@
 </p>
 
 <p align="center">Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras. Me encuentro en la búsqueda de mi primer empleo IT, con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error cometido.Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.
-</p> 
 <br>
 Obtenga más información sobre mí y no dude en conectarse conmigo 
-
+</p>
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
     <a target="_blank" href="mailto:vilma.rojflo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
     <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> </p>
   
 </p>
-<br>
-<br>
-<h2> align="center"> Tecnologias </h2>
+
+### Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -57,13 +55,14 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 <br>
 <br>
-<h2> align="center"> Proyectos </h2>
+
+### Proyectos
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-<br>
+
 
 
 <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
