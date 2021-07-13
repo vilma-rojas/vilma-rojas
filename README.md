@@ -1,27 +1,5 @@
 # ¡Hola, soy Vilma Rojas!
 
-## Sobre mi
-
-⭐️ Soy una persona responsable, organizada, comprometida, objetiva.
-
-📚 Estudiante de segundo año de la carrera de Ingeniería en Sistemas de Información, en la Universidad Tecnológica Nacional Regional Buenos Aires.
-
-🎈 Me encuentro en la búsqueda de mi primer empleo IT, con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error cometido.
-
-✔️ Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. 
-
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
-
-## Technologies
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -56,12 +34,23 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
+## Acerca de mi
+
+⭐️ Soy una persona responsable, organizada, comprometida, objetiva. Soy un entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras / disruptivas.
+
+📚 Estudiante de segundo año de la carrera de Ingeniería en Sistemas de Información, en la Universidad Tecnológica Nacional Regional Buenos Aires.
+
+🎈 Me encuentro en la búsqueda de mi primer empleo IT, con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error cometido. 
+
+✔️ Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. 
+
+Obtenga más información sobre mí y no dude en conectarse conmigo
 ## Contacto
 
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> <br>
+<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <br>
+<a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a> <br>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> <br>
 
 [![vilma-rojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilma-rojas)](https://github.com/vilma-rojas/github-readme-stats)
 
