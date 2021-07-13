@@ -1,4 +1,4 @@
-# <p align="center" >Hola!, Soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a></p>
+# <h1 align="center" >Hola!, Soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a></h1>
 <p align="center">
         <!-- Organisation  -->
         <samp>
@@ -23,7 +23,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 </p>
 
 ## <p align="center"> Tecnologias </p>
-<div align="center">
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -52,7 +52,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-</div>
+</p>
 <!--## Acerca de mi
 
 ⭐️ Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras.
