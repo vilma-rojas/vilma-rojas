@@ -4,16 +4,29 @@
         <samp>
                 「 De Buenos Aires, Argentina 」
                 <br>
-                「 Estudiante Ingenieria en sistemas de Informacion @<b> <a href="https://www.frba.utn.edu.ar/">Universidad Tecnologica Nacional</a>                
+                「 Estudiante de 2do Año @ Ingenieria en sistemas de Informacion @ <b> <a href="https://www.frba.utn.edu.ar/">Universidad Tecnologica Nacional</a>                
                 </b> 」
                 <br>
                 <br>
         </samp>
         <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
         <a target="_blank" href="mailto:vilma.rojflo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
-        <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> 
+        <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
   
 </p>
+<details align="center">
+    <summary> <samp>&#9776; Leer Mas </samp></summary>
+    <p align="center">
+        <br>
+        <p>
+        Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras. Me encuentro en la búsqueda de mi primer empleo IT, con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error cometido.Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.</p>
+        <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
+        <br>
+        <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas" />
+        <br>
+        <p>Obtenga más información sobre mí y no dude en conectarse conmigo </p>
+    </p>
+</details>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -46,9 +59,8 @@
 
 ## Acerca de mi
 
-⭐️ Soy una persona responsable, organizada, comprometida, objetiva. Soy un entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras / disruptivas.
+⭐️ Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras.
 
-📚 Estudiante de segundo año de la carrera de Ingeniería en Sistemas de Información, en la Universidad Tecnológica Nacional Regional Buenos Aires.
 
 🎈 Me encuentro en la búsqueda de mi primer empleo IT, con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error cometido. 
 
