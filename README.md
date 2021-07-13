@@ -25,7 +25,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 </p>
 <br>
 <br>
-<h2> align="center"> Tecnologias </p>
+<h2> align="center"> Tecnologias </h2>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -57,7 +57,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 <br>
 <br>
-<h2> align="center"> Proyectos </p>
+<h2> align="center"> Proyectos </h2>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
