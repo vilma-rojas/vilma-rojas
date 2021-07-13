@@ -10,9 +10,11 @@
         </samp>
 </p>
 
-<p align="center">Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras. Me encuentro en la búsqueda de mi primer empleo IT, con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error cometido.Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.<br> Obtenga más información sobre mí y no dude en conectarse conmigo 
-</p> 
+<p align="center">Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras. Me encuentro en la búsqueda de mi primer empleo IT, con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error cometido.Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.
 <br> 
+<br>
+Obtenga más información sobre mí y no dude en conectarse conmigo 
+</p> 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
     <a target="_blank" href="mailto:vilma.rojflo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
@@ -20,7 +22,8 @@
   
 </p>
 
-## Tecnologias
+## <p align="center"> Tecnologias </p>
+<div align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -49,7 +52,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
+</div>
 <!--## Acerca de mi
 
 ⭐️ Soy una persona responsable, organizada, comprometida, objetiva, entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras.
