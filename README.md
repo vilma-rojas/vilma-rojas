@@ -1,13 +1,12 @@
-<h1 align="center" >Hola!, Soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a></h1>
+<h1 align="center" >¡Hola, soy 👋 <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
 <p align="center">
-        <!-- Organisation  -->
         <samp>
-                「 De Buenos Aires, Argentina 」
+                De Buenos Aires, Argentina
                 <br>
-                「 Estudiante de 2do Año」
+                Estudiante de 2do Año
                 <br>
-                「 Ingenieria en sistemas de Informacion en <b> <a href="https://www.frba.utn.edu.ar/">Universidad Tecnologica Nacional</a>                
-                </b> 」
+                Ingenieria en sistemas de Informacion en <b> <a href="https://www.frba.utn.edu.ar/">Universidad Tecnologica Nacional</a>                
+                </b>
                 <br>
         </samp>
 </p>
