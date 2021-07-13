@@ -7,7 +7,6 @@
                 「 Estudiante de 2do Año @ Ingenieria en sistemas de Informacion @ <b> <a href="https://www.frba.utn.edu.ar/">Universidad Tecnologica Nacional</a>                
                 </b> 」
                 <br>
-                <br>
         </samp>
         <details align="center">
             <summary> <samp>&#9776; Leer Mas </samp></summary>
