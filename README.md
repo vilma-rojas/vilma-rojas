@@ -51,10 +51,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 [![vilma-rojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilma-rojas)](https://github.com/vilma-rojas/github-readme-stats)
 
-![GitHub Estados Vilma Rojas](https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&theme=radical)
+![GitHub Estados Vilma Rojas](https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&theme=dracula)
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vilma-rojas.vilma-rojas)
 
 
 
