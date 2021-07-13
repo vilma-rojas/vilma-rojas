@@ -29,11 +29,6 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
 ## Acerca de mi
 
 ⭐️ Soy una persona responsable, organizada, comprometida, objetiva. Soy un entusiasta de la tecnología y un defensor del código abierto. Siempre estoy abierto a colaborar en proyectos e ideas innovadoras / disruptivas.
@@ -53,6 +48,11 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> <br>
 
 [![vilma-rojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilma-rojas)](https://github.com/vilma-rojas/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
 
 
