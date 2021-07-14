@@ -18,32 +18,11 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ## Tecnologias
 <p>
     <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></img>
-    <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></img>
-    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
-    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></img>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"></img>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></img>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></img>
-    <img src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"></img>
-    <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></img>
-    <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"></img>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"></img>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
@@ -51,6 +30,33 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></img>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img>
     <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></img>
+
+    <!-- 
+    <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>    
+    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
+    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></img>
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"></img>
+    <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></img>
+    <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+    
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></img>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></img>
+    
+    
+    -->
+    
 </p>
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -122,7 +128,6 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 <P>
     <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&hide=contribs&show_icons=true&count_private=true&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/vilma-rojas"/>
     <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas"/>
-">
 </p>
 <!-- 
 
