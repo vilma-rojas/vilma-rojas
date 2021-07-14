@@ -73,6 +73,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas"/>
 </p>
 
+![Profile views](https://gpvc.arturio.dev/vilma-rojas)
+
 <!--
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>    
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
