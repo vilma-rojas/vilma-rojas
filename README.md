@@ -14,6 +14,9 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <a target="_blank" href="https://app.slack.com/client/T025LB1CW5U/C025LB1DJ4W/user_profile/U025TCWPY7M"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a>
     <a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
+<p align="right">
+    <a target="_blank" href="Vistas"><img src="https://gpvc.arturio.dev/vilma-rojas"></img></a>
+</p>
 
 ## Tecnologias
 <p>
@@ -73,7 +76,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas"/>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/vilma-rojas)
+
 
 <!--
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>    
