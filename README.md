@@ -18,7 +18,6 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 </p>
 
 <h2>Tecnologias</h2>
-<p>  
     <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></img>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></img>
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
@@ -52,7 +51,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></img>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img>
     <img scr="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></img>
-</p>
+
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
