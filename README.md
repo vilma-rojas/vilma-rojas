@@ -85,24 +85,43 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ## Proyectos
 <p>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Login-777BB4?style=for-the-badge"></img></a> 
+    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></img>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></img>
+    <br>
     <br>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clima-FCC624?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></img>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
+    <br>
     <br>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Crud-00ADD8?style=for-the-badge"></img></a>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></img>
+    <br>
     <br>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Contactos-00457C?style=for-the-badge"></img></a>
+    <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></img>
+    <br>
     <br>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clonar-F96854?style=for-the-badge"></img></a> 
     <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></img>
 </p>
 
 
 <h2>Mas Informacion</h2>
 <P>
-    <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&theme=radical&hide=contrib" href="https://github.com/sp-xd" />
-    <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas" />
-    <img alt="Vilma Rojas github stats" src="https://github-readme-stats.vercel.app/api ? Username = anuraghazra & show_icons = true & theme = radical" href="https://github.com/vilma-rojas"></img>
+    <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=194,24,179 &title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd"></img>
+    <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas"></img>
 ">
 </p>
 <!-- 
