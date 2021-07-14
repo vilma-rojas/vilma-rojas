@@ -16,7 +16,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
   
 </p>
 
-<h2>Tecnologias</h2>
+## Tecnologias
 <p>
     <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></img>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></img>
@@ -82,7 +82,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-<h2>Proyectos</h2>
+## Proyectos
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) <br>
