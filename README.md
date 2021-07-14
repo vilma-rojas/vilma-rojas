@@ -17,7 +17,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 ## Tecnologias
 <p>
-    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></img>
+    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java" width="70px" height="25px"></img>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></img>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></img>
