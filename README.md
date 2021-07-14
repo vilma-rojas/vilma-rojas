@@ -12,7 +12,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Sitio%20Personal-E4405F?style=for-the-badge"></img></a>
     <a target="_blank" href="https://app.slack.com/client/T025LB1CW5U/C025LB1DJ4W/user_profile/U025TCWPY7M"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a>
-    <a target="_blank" href="https://discord.com/channels/Diana%20Flores#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+    <a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
 
 ## Tecnologias
@@ -84,17 +84,23 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 ## Proyectos
 <p>
-    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Login-00AFF0?style=for-the-badge"></img></a>
+    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Login-777BB4?style=for-the-badge"></img></a> 
+    <br>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clima-FCC624?style=for-the-badge"></img></a>
+    <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
+    <br>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Crud-00ADD8?style=for-the-badge"></img></a>
+    <br>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Contactos-00457C?style=for-the-badge"></img></a>
-    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clonar-F96854?style=for-the-badge"></img></a>
+    <br>
+    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clonar-F96854?style=for-the-badge"></img></a> 
+    <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
 </p>
 
 
 <h2>Mas Informacion</h2>
 <P>
-    <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2_theme=radical" href="https://github.com/sp-xd" />
+    <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&theme=radical&hide=contrib" href="https://github.com/sp-xd" />
     <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas" />
     <img alt="Vilma Rojas github stats" src="https://github-readme-stats.vercel.app/api ? Username = anuraghazra & show_icons = true & theme = radical" href="https://github.com/vilma-rojas"></img>
 ">
