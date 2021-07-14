@@ -20,33 +20,32 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java" width="55px" height="20px"></img>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java"></img>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></img>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white" width="55px" height="20px"></img>
+    <img src="https://img.shields.io/badge/Xampp-F37623?style=flat-badge&logo=xampp&logoColor=white" width="55px" height="20px"></img>
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></img>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"></img>
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" width="55px" height="20px"></img>
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" ></img>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"></img>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></img>
-    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img>
-    <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></img>  
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img> 
 </p>
 
 ## Proyectos
 <p>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Login-777BB4?style=for-the-badge"></img></a> 
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></img>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-badge&logo=redux&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-badge&logo=mysql&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
     <br>
     <br>
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clima-FCC624?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></img>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=android&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
     <br>
     <br>
