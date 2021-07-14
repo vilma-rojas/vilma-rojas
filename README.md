@@ -19,6 +19,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ## Tecnologias
 <p>
     <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></img>
+    <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></img>
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
     <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></img>
