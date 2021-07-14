@@ -17,13 +17,12 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 ## Tecnologias
 <p>
-    <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java" width="55px" height="20px"></img>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java"></img>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></img>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white" width="55px" height="20px"></img>
-    <img src="https://img.shields.io/badge/Xampp-F37623?style=flat-badge&logo=xampp&logoColor=white" width="55px" height="20px"></img>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Xampp-F37623?style=flat-badge&logo=xampp&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></img>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" width="55px" height="20px"></img>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"></img>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" ></img>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"></img>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
