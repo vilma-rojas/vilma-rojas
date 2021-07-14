@@ -15,7 +15,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
 
-## Tecnologias
+## Tecnologías
 <p>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white"></img>
@@ -67,7 +67,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 </p>
 
 
-<h2>Mas Informacion</h2>
+## Más información
 <P>
     <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&hide=contribs&show_icons=true&count_private=true&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/vilma-rojas"/>
     <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas"/>
