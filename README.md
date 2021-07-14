@@ -1,9 +1,9 @@
 # Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
 <p>
-¡Hola! Mi nombre es Vilma, soy Full Stack Developer con base en Buenos Aires, Argentina .
+¡Hola! Mi nombre es Vilma, soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br>
 Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>             
-Soy desarrollador Full Stack con muchas tecnologías diferentes, pero me especializo en los stacks de Spring y Hibernate.
-La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.
+Trabajo con diferentes tecnologias, pero me especializo en los stacks de Spring y Hibernate.
+La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. <br>Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.
 <br> <br>
 Obtenga más información sobre mí y no dude en conectarse conmigo 
 </p>
