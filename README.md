@@ -44,7 +44,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"></img>
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></img>
-    <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring" width="65px" height="23"></img>
+    <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img scr="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"></img>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
