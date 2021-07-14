@@ -10,8 +10,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 <p>
     <a target="_blank" href="mailto:vilma.rojflo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
     <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
-    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/-Sitio%20Personal-lightblue?style=flat-square&logoColor=white"></img></a>
-    <a target="_blank" href="https://www.slack.com/vilma-rojas"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a>
+    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/-Sitio%20Personal-7289DA?style=flat-square&logoColor=white"></img></a>
+    <a target="_blank" href="https://www.slack.com/vilma-rojas"><img src="https://img.shields.io/badge/Slack-violet?style=for-the-badge&logo=slack&logoColor=white"></img></a>
     <a target="_blank" href="https://discord.com/vilma-rojas"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
     <a target="_blank" href="https://stack-overflow/vilma-rojas"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>
   
