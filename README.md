@@ -19,6 +19,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 <p>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
+    <img src="https://img.shields.io/badge/Hibernate-%2366595C.svg?style=flat-badge&logo=hibernate"></img>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-badge&logo=vuedotjs&logoColor=4FC08D"></img>
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=red"></img>
