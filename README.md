@@ -21,8 +21,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-badge&logo=vuedotjs&logoColor=4FC08D"></img>
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=red></img>
-    <img src="https://img.shields.io/badge/Xampp-F37623?style=flat-badge&logo=xampp&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=red"></img>
+    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-ReactJs-20232A?style=flat-square&logo=react&logoColor=61DAFB"></img>
     <img src="https://camo.githubusercontent.com/8388931ce4b7c34ed65045a5c1f236ae419235e3368b074ea37e0516c77983ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"></img>
     <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" ></img>
