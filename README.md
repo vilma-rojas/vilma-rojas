@@ -2,7 +2,7 @@
 <p>
 ¡Hola! Mi nombre es Vilma, soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br>
 Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>             
-Trabajo con diferentes tecnologias, pero me especializo en los stacks de Spring y Hibernate. <br>
+Trabajo con diferentes tecnologias, pero me especializo en los stacks de React js y Spring. <br>
 La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.
 <br> <br>
 Obtenga más información sobre mí y no dude en conectarse conmigo 
@@ -14,6 +14,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <a target="_blank" href="https://app.slack.com/client/T025LB1CW5U/C025LB1DJ4W/user_profile/U025TCWPY7M"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a>
     <a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
+<br>
 
 ## Tecnologías
 <p>
@@ -30,6 +31,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></img>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img> 
 </p>
+<br>
 
 ## Proyectos
 <p>
@@ -81,7 +83,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
 </p>
-
+<br>
 
 ## Más información
 <P>
