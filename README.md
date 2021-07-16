@@ -3,7 +3,7 @@
 ¡Hola! Mi nombre es Vilma, soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br>
 Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>             
 Trabajo con diferentes tecnologias, pero me especializo en los stacks de React js y Spring. <br>
-La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación.
+La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. Scrum, arquitectura
 <br> <br>
 Obtenga más información sobre mí y no dude en conectarse conmigo 
 </p>
@@ -18,6 +18,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ## Tecnologías
 <p>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-badge&logo=vuedotjs&logoColor=4FC08D"></img>
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Xampp-F37623?style=flat-badge&logo=xampp&logoColor=white"></img>
@@ -101,7 +103,6 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"></img>
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></img>
-    <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
     
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
