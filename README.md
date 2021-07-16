@@ -14,7 +14,6 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <a target="_blank" href="https://app.slack.com/client/T025LB1CW5U/C025LB1DJ4W/user_profile/U025TCWPY7M"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a>
     <a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
-<br>
 
 ## Tecnologías
 <p>
@@ -31,7 +30,6 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></img>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img> 
 </p>
-<br>
 
 ## Proyectos
 <p>
@@ -83,7 +81,6 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
 </p>
-<br>
 
 ## Más información
 <P>
