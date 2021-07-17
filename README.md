@@ -1,8 +1,8 @@
 # Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
 <p>
-¡Hola! Mi nombre es Vilma, soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br>
+Soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br>
 Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>             
-Trabajo con diferentes tecnologias, pero me especializo en los stacks de React js y Spring. <br>
+Trabajo con diferentes tecnologias, pero me especializo en los stacks de React Js y Spring. <br>
 La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. Scrum, arquitectura, ajax.
 <br> <br>
 Obtenga más información sobre mí y no dude en conectarse conmigo 
@@ -20,7 +20,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img src="https://img.shields.io/badge/Hibernate-%232C3454.svg?style=flat-badge&logo=hibernate"></img>
-    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=flat-badge&logo=vuedotjs&logoColor=4FC08D"></img>
+    <img src="https://img.shields.io/badge/Vue%20Js-35495E?style=flat-badge&logo=vuedotjs&logoColor=4FC08D"></img>
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=red"></img>
     <img src="https://img.shields.io/badge/Xampp-F37623?style=flat-badge&logo=xampp&logoColor=white"></img>
