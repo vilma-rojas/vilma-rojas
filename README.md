@@ -1,16 +1,18 @@
 # Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
 <p>
 Soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br>
-Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>             
-Trabajo con diferentes tecnologias, pero me especializo en los stacks de React Js y Spring. <br>
-La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. Scrum, arquitectura, ajax.
+Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
+Soy una persona responsable, organizada, comprometida, objetiva.    Me encuentro en la búsqueda de mi primer empleo IT con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error
+Tengo experiencia trabajando en diferentes roles, capacitando a nuevos compañeros, en atención, planificaciones, en liderazgo, e investigación.              
+<!--Trabajo con diferentes tecnologias, pero me especializo en los stacks de React Js y Spring. <br> 
+La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. Scrum, arquitectura, ajax. -->
 <br> <br>
 Obtenga más información sobre mí y no dude en conectarse conmigo 
 </p>
 <p>
     <a target="_blank" href="mailto:vilma.rojflo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
     <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
-    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Sitio%20Personal-E4405F?style=for-the-badge&logo=./images/usuario.png"></img></a>
+    <!-- <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Sitio%20Personal-E4405F?style=for-the-badge&logo=./images/usuario.png"></img></a> -->
     <a target="_blank" href="https://app.slack.com/client/T025LB1CW5U/C025LB1DJ4W/user_profile/U025TCWPY7M"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a>
     <a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
@@ -18,11 +20,11 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 ## Tecnologías
 <p>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
+   <!-- <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img src="https://img.shields.io/badge/Hibernate-%232C3454.svg?style=flat-badge&logo=hibernate"></img>
-    <img src="https://img.shields.io/badge/Vue%20Js-35495E?style=flat-badge&logo=vuedotjs&logoColor=4FC08D"></img>
+    <img src="https://img.shields.io/badge/Vue%20Js-35495E?style=flat-badge&logo=vuedotjs&logoColor=4FC08D"></img> -->
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=red"></img>
+   <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=red"></img> -->
     <img src="https://img.shields.io/badge/Xampp-F37623?style=flat-badge&logo=xampp&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-React%20Js-20232A?style=flat-square&logo=react&logoColor=61DAFB"></img>
     <img src="https://camo.githubusercontent.com/8388931ce4b7c34ed65045a5c1f236ae419235e3368b074ea37e0516c77983ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"></img>
@@ -35,7 +37,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 </p>
 
 ## Proyectos
-<p>
+<p> <!-- Exportadora Argentina -->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/EXPORTADORA%20ARGENTINA%20S.A.-12100E?style=for-the-badge"></img></a> 
     <img src="https://img.shields.io/badge/-ReactJs-00AFF0?style=flat-square&logo=react&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat-badge&logo=redux&logoColor=white"></img>
@@ -44,6 +46,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
     <br>
     <br>
+    <!-- Imax Ventas-->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/IMAX%20VENTAS-3DDC84?style=for-the-badge"></img></a> 
     <img src="https://img.shields.io/badge/-ReactJs-00AFF0?style=flat-square&logo=react&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat-badge&logo=redux&logoColor=white"></img>
@@ -52,6 +55,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
     <br>
     <br>
+    <!-- Login-->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Login-777BB4?style=for-the-badge"></img></a> 
     <img src="https://img.shields.io/badge/-ReactJs-00AFF0?style=flat-square&logo=react&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat-badge&logo=redux&logoColor=white"></img>
@@ -60,6 +64,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
     <br>
     <br>
+    <!--Clima -->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clima-FCC624?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
@@ -67,17 +72,20 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
     <br>
     <br>
+    <!-- Crud-->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Crud-00ADD8?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-badge&logo=postgresql&logoColor=white"></
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
     <br>
     <br>
+    <!--Contactos -->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Contactos-00457C?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
     <br>
     <br>
+    <!--Clonar -->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clonar-F96854?style=for-the-badge"></img></a> 
     <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-badge&logo=mysql&logoColor=white"></img>
