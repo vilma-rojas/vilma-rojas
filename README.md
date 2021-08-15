@@ -9,8 +9,6 @@ Se encuentran debajo de la descripcion de este perfil.
 <!--Trabajo con diferentes tecnologias, pero me especializo en los stacks de React Js y Spring. <br> 
 La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. Scrum, arquitectura, ajax. -->
 <br> <br>
-Tambien puede visualizar mis conocimientos con ejercicios que realizo dentro de los cursos que realizo y la facultad. 
-Se encuentran debajo de la descripcion de este perfil. 
 Obtenga más información sobre mí y no dude en conectarse conmigo 
 </p>
 <p>
