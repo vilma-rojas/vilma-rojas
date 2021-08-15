@@ -4,7 +4,7 @@
 Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
 Soy una persona responsable, organizada, comprometida, objetiva.  <br>  Me encuentro en la búsqueda de mi primer empleo IT con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error,
 tengo experiencia trabajando en diferentes roles, capacitando a nuevos compañeros, en atención, planificaciones, en liderazgo, e investigación.<br>        
-Tambien puede visualizar mis conocimientos con ejercicios que realizo dentro de los cursos y la facultad. <br>
+Tambien pueden visualizar mis conocimientos con ejercicios que realizo dentro de los cursos y la facultad. <br>
 Se encuentran debajo de la descripcion de este perfil. 
 <!--Trabajo con diferentes tecnologias, pero me especializo en los stacks de React Js y Spring. <br> 
 La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. Scrum, arquitectura, ajax. -->
@@ -39,15 +39,12 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 </p>
 
 ## Proyectos
-<p> <!-- CRUD -->
-    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/CRUD-12100E?style=for-the-badge"></img></a> 
-    <!--<img src="https://img.shields.io/badge/-ReactJs-00AFF0?style=flat-square&logo=react&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-badge&logo=redux&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"></img>
+<p> 
+    <!-- PERSONAL-->
+    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/PERSONAL-00ADD8?style=for-the-badge"></img></a>
+    <!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-badge&logo=postgresql&logoColor=white"></
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>-->
-    <br>
-    <br>
     <!-- Imax Ventas-->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/IMAX%20VENTAS-3DDC84?style=for-the-badge"></img></a> 
    <!-- <img src="https://img.shields.io/badge/-ReactJs-00AFF0?style=flat-square&logo=react&logoColor=white"></img>
@@ -66,6 +63,15 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img> -->
     <br>
     <br>
+    <!-- CRUD -->
+    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/CRUD-12100E?style=for-the-badge"></img></a> 
+    <!--<img src="https://img.shields.io/badge/-ReactJs-00AFF0?style=flat-square&logo=react&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-badge&logo=redux&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>-->
+    <br>
+    <br>
     <!--Clima 
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clima-FCC624?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
@@ -74,11 +80,6 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
     <br>
     <br> -->
-    <!-- PERSONAL-->
-    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/PERSONAL-00ADD8?style=for-the-badge"></img></a>
-    <!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-badge&logo=postgresql&logoColor=white"></
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>-->
     <!--Contactos
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Contactos-00457C?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
