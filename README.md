@@ -2,7 +2,7 @@
 <p>
 <!--Soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br> -->
 Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
-Soy una persona responsable, organizada, comprometida, objetiva.    Me encuentro en la búsqueda de mi primer empleo IT con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error
+Soy una persona responsable, organizada, comprometida, objetiva.  <br>  Me encuentro en la búsqueda de mi primer empleo IT con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error
 Tengo experiencia trabajando en diferentes roles, capacitando a nuevos compañeros, en atención, planificaciones, en liderazgo, e investigación.              
 Tambien puede visualizar mis conocimientos con ejercicios que realizo dentro de los cursos que realizo y la facultad. 
 Se encuentran debajo de la descripcion de este perfil. 
