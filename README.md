@@ -37,8 +37,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 </p>
 
 ## Proyectos
-<p> <!-- Exportadora Argentina -->
-    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/EXPORTADORA%20ARGENTINA%20S.A.-12100E?style=for-the-badge"></img></a> 
+<p> <!-- Personal ecommerce -->
+    <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/ECOMMERCE-12100E?style=for-the-badge"></img></a> 
     <img src="https://img.shields.io/badge/-ReactJs-00AFF0?style=flat-square&logo=react&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat-badge&logo=redux&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
