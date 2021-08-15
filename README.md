@@ -45,6 +45,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-badge&logo=postgresql&logoColor=white"></
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>-->
+    <br>
+    <br>
     <!-- Imax Ventas-->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/IMAX%20VENTAS-3DDC84?style=for-the-badge"></img></a> 
    <!-- <img src="https://img.shields.io/badge/-ReactJs-00AFF0?style=flat-square&logo=react&logoColor=white"></img>
@@ -70,8 +72,6 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>-->
-    <br>
-    <br>
     <!--Clima 
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clima-FCC624?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
