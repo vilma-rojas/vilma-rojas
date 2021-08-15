@@ -1,6 +1,6 @@
 # Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
 <p>
-Soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br>
+<!--Soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br> -->
 Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
 Soy una persona responsable, organizada, comprometida, objetiva.    Me encuentro en la búsqueda de mi primer empleo IT con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error
 Tengo experiencia trabajando en diferentes roles, capacitando a nuevos compañeros, en atención, planificaciones, en liderazgo, e investigación.              
