@@ -64,14 +64,14 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
     <br>
     <br>
-    <!--Clima -->
+    <!--Clima 
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clima-FCC624?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=android&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></img>
     <br>
-    <br>
+    <br> -->
     <!-- Crud-->
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/Crud-00ADD8?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-badge&logo=postgresql&logoColor=white"></
@@ -79,18 +79,19 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
     <br>
     <br>
-    <!--Contactos -->
+    <!--Contactos
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Contactos-00457C?style=for-the-badge"></img></a>
     <img src="https://img.shields.io/badge/-Kotlin-0095D5??style=flat-square&logo=kotlin&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
     <br>
-    <br>
-    <!--Clonar -->
+    <br> -->
+    <!--Clonar 
     <a target="_blank" href="vilma-rojas.github.io"><img src="https://img.shields.io/badge/App%20Clonar-F96854?style=for-the-badge"></img></a> 
     <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-badge&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>
+    -->
 </p>
 
 ## Más información
