@@ -43,7 +43,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <!-- TIENDA MOVIL-->
     <a target="_blank" href="https://tienda-movil.github.io/"><img src="https://img.shields.io/badge/TIENDA%20MOVIL-1572B6?style=for-the-badge"></img></a> <br>
     <strong>TIPO: Pagina Dinámica. </strong> <br>
-    <strong>DESCRIPCION: Cuenta con detalles de cada celular y sus caracteristicas. Hosteada con Github pages y versionada con Github. <br>Proximamente: Va a perrmitir iniciar sesión con la cuenta google y realizar un pedido de un celular.</strong> <br>
+    <strong>DESCRIPCION: Cuenta con detalles de cada celular y sus caracteristicas. Hosteada con Github pages y versionada con Github. <br>Proximamente, va a perrmitir iniciar sesión con la cuenta google y realizar un pedido de un celular.</strong> <br>
     <strong>LENGUAJES UTILIZADOS: </strong> 
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
