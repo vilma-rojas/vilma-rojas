@@ -40,8 +40,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 
 ## Proyectos
 <p> 
-    <!-- PERSONAL-->
-    <a target="_blank" href="https://tienda-movil.github.io/"><img src="https://img.shields.io/badge/PERSONAL-1572B6?style=for-the-badge"></img></a>
+    <!-- TIENDA MOVIL-->
+    <a target="_blank" href="https://tienda-movil.github.io/"><img src="https://img.shields.io/badge/TIENDA%20MOVIL-1572B6?style=for-the-badge"></img></a>
     <!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-badge&logo=postgresql&logoColor=white"></
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>-->
