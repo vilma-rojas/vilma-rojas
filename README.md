@@ -42,14 +42,14 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
 <p> 
     <!-- TIENDA MOVIL-->
     <a target="_blank" href="https://tienda-movil.github.io/"><img src="https://img.shields.io/badge/TIENDA%20MOVIL-1572B6?style=for-the-badge"></img></a> <br>
-    <strong>TIPO:  </strong> Pagina Dinámica. <br>
-    <strong>DESCRIPCION:</strong> Cuenta con detalles de cada celular y sus caracteristicas. Hosteada con Github pages y versionada con Github. <br>Proximamente, va a perrmitir iniciar sesión con la cuenta google y realizar un pedido de un celular. <br>
-    <strong>LENGUAJES UTILIZADOS: </strong> 
+   <!-- <strong>TIPO:  </strong> Pagina Dinámica. <br>-->
+    <!--<strong>DESCRIPCION:</strong>--> Cuenta con detalles de cada celular y sus caracteristicas. Hosteada con Github pages y versionada con Github. <br>Proximamente, va a perrmitir iniciar sesión con la cuenta google y realizar un pedido de un celular. <br>
+    <!--<strong>LENGUAJES UTILIZADOS: </strong> 
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img> 
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img> -->
     <!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-badge&logo=postgresql&logoColor=white"></
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>-->
@@ -57,11 +57,11 @@ Obtenga más información sobre mí y no dude en conectarse conmigo
     <br>
     <!-- Imax Ventas-->
     <a target="_blank" href="https://vilma-rojas.github.io/imax-ventas/"><img src="https://img.shields.io/badge/IMAX%20VENTAS-%23008080.svg?style=for-the-badge"></img></a> <br>
-    <strong>TIPO: </strong>Pagina Estática.  <br>
-    <strong>LENGUAJES UTILIZADOS: </strong> 
+   <!-- <strong>TIPO: </strong>Pagina Estática.  <br>-->
+    <!--<strong>LENGUAJES UTILIZADOS: </strong> 
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img>-->
    <!-- <img src="https://img.shields.io/badge/-ReactJs-00AFF0?style=flat-square&logo=react&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat-badge&logo=redux&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
