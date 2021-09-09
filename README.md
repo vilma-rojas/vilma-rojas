@@ -1,11 +1,13 @@
 # Hola, soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
 <p>
+oy una persona responsable, organizada, comprometida, objetiva, y autodidacta. Trabajo con el lenguaje de Java EE, y estoy en el proceso de aprendizaje de la librería React Js, para consumir Apis y demostrar estos conocimientos en proyectos. <br>
+Mi objetivo profesional es formarme como desarrollador full stack con enfoque en React Js y Spring.
 <!--Soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br> -->
-Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
+<!--Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
 Soy una persona responsable, organizada, comprometida, objetiva.  <br>  Me encuentro en la búsqueda de mi primer empleo IT con ganas de resolver nuevos desafíos, creo firmemente que para cada problema hay solución, y que también se aprende de cada error,
 tengo experiencia trabajando en diferentes roles, capacitando a nuevos compañeros, en atención, planificaciones, en liderazgo, e investigación.<br>        
 Tambien pueden visualizar mis conocimientos con ejercicios que realizo dentro de los cursos y la facultad. <br>
-Se encuentran debajo de la descripcion de este perfil. 
+Se encuentran debajo de la descripcion de este perfil. -->
 <!--Trabajo con diferentes tecnologias, pero me especializo en los stacks de React Js y Spring. <br> 
 La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. Scrum, arquitectura, ajax. -->
 <br> <br>
