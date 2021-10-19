@@ -23,7 +23,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     <a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </p>
 
-## Tecnologías
+## Tecnologías 💻
 <p>
     <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img src="https://img.shields.io/badge/Hibernate-%232C3454.svg?style=flat-badge&logo=hibernate"></img>
@@ -43,7 +43,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     <!--<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img> -->
 </p>
 
-## Proyectos
+## Proyectos 📚
 <p> 
     <!-- TIENDA MOVIL
     <a target="_blank" href="https://tienda-movil.github.io/"><img src="https://img.shields.io/badge/TIENDA%20MOVIL-1572B6?style=for-the-badge"></img></a> <br>-->
@@ -110,14 +110,14 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     -->
 </p>
 
-## Más información
+## GitHub Stats 📄
 <P>
     <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&hide=contribs&show_icons=true&count_private=true&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/vilma-rojas"/>
     <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas"/>
 </p>
-<p align="right">
+<!-- <p align="right">
     <a target="_blank" href="Vistas"><img src="https://gpvc.arturio.dev/vilma-rojas"></img></a>
-</p>
+</p>-->
 
 
 
