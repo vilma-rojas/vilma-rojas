@@ -1,4 +1,4 @@
-# Hola, soy <a target="_blank" href="vilma-rojas.github.io/">Vilma Rojas</a> 👋</h1>
+# ¡Hola! Soy <a target="_blank" href="vilma-rojas.github.io/">Vilma Rojas</a>, bienvenido a mi repo! 👋🙋‍♀️</h1>
 <p>
 Estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
 Soy una persona responsable, organizada, comprometida, objetiva, y autodidacta. <br>Trabajo con el lenguaje de Java EE, y estoy en el proceso de aprendizaje de la librería React Js, para consumir Apis y demostrar estos conocimientos en proyectos. Mi objetivo profesional es formarme como desarrollador full stack con enfoque en React Js y Spring.
