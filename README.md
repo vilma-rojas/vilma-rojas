@@ -113,11 +113,11 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
 ## GitHub Stats 📄
 <P>
     <img alt="Vilma Rojas's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vilma-rojas&hide=contribs&show_icons=true&count_private=true&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/vilma-rojas"/>
-    <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas"/>
+   <!-- <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilma-rojas&layout=compact&count_private=true&&hide_border=true&bg_color=003545&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/vilma-rojas"/>-->
 </p>
-<!-- <p align="right">
+<p align="right">
     <a target="_blank" href="Vistas"><img src="https://gpvc.arturio.dev/vilma-rojas"></img></a>
-</p>-->
+</p>
 
 
 
