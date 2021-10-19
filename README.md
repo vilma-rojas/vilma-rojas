@@ -1,4 +1,4 @@
-# ¡Hola! Soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a>, bienvenid@ a mi repo! 👋🙋‍♀️</h1>
+# ¡Hola! Soy <!--<a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a>-->Vilma Rojas, bienvenid@ a mi repo! 👋🙋‍♀️</h1>
 <p>
 Soy estudiante de Ingeniería en Sistemas de Información en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>
 Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación y también tengo interés en la parte cloud.<br> 
@@ -16,7 +16,7 @@ La programación es algo que realmente me apasiona, encuentro muy entretenido ha
 Obtenga más información sobre mí y no dude en conectarse conmigo.
 </p>
 <p>
-    <a target="_blank" href="https://vilma-rojas.github.io"><img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=./images/usuario.png"></img></a>
+    <!--<a target="_blank" href="https://vilma-rojas.github.io"><img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=./images/usuario.png"></img></a>-->
     <a target="_blank" href="mailto:vilma.rojflo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
     <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
     <a target="_blank" href="https://app.slack.com/client/T025LB1CW5U/C025LB1DJ4W/user_profile/U025TCWPY7M"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a>
