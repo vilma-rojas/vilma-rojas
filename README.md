@@ -2,7 +2,7 @@
 <p>
 Soy estudiante de Ingeniería en Sistemas de Información en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>
 Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación. <br> <br>
-Actualmente estoy en formacion con el programa de <a target="_blank" href="https://aws.amazon.com/es/training/restart/">AWS Re/Start</a> por parte de Amazon Web Services & Potrero Digital, tambien terminando el curso de Desarrollador en Java en <a target="_blank" href="http://digitalers.com.ar/cursos.html">Educacion It</a>. <br> <br>
+Actualmente estoy en formación con el programa de <a target="_blank" href="https://aws.amazon.com/es/training/restart/">AWS Re/Start</a> por parte de Amazon Web Services & Potrero Digital, también terminando el curso de Desarrollador en Java en <a target="_blank" href="http://digitalers.com.ar/cursos.html">Educacion It</a>. <br>
 Soy una persona resolutiva, positiva, alegre, organizada, comprometida, autodidacta y con grandes ganas de trabajar y seguir aprendiendo.
 <!--Soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br> -->
 <!--Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
@@ -13,7 +13,7 @@ Se encuentran debajo de la descripcion de este perfil. -->
 <!--Trabajo con diferentes tecnologias, pero me especializo en los stacks de React Js y Spring. <br> 
 La programación es algo que realmente me apasiona, encuentro muy entretenido hacer algoritmos que realizan ciertas tareas pero también intrigante y útil para mi desarrollo personal. También disfruto analizando algoritmos ya existentes, para entender por qué fueron creados, qué hacen y cómo lo hacen. Tengo experiencia trabajando en diferentes roles, capacitando a compañeros, en atención, planificaciones, en liderazgo, e investigación. Scrum, arquitectura, ajax. -->
 <br> <br>
-Obtenga más información sobre mí y no dude en conectarse conmigo 
+Obtenga más información sobre mí y no dude en conectarse conmigo.
 </p>
 <p>
     <a target="_blank" href="https://vilma-rojas.github.io"><img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=./images/usuario.png"></img></a>
