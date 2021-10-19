@@ -1,8 +1,8 @@
 # ¡Hola! Soy <a target="_blank" href="https://vilma-rojas.github.io/">Vilma Rojas</a>, bienvenid@ a mi repo! 👋🙋‍♀️</h1>
 <p>
 Soy estudiante de Ingeniería en Sistemas de Información en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>
-Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación. <br> <br>
-Actualmente estoy en formación con el programa de <a target="_blank" href="https://aws.amazon.com/es/training/restart/">AWS Re/Start</a> por parte de Amazon Web Services & Potrero Digital, también terminando el curso de Desarrollador en Java en <a target="_blank" href="http://digitalers.com.ar/cursos.html">Educacion It</a>. <br>
+Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación. <br> 
+Actualmente estoy en formación con el programa de <a target="_blank" href="https://aws.amazon.com/es/training/restart/">AWS Re/Start</a> por parte de Amazon Web Services & Potrero Digital, también terminando el curso de Desarrollador en Java en <a target="_blank" href="http://digitalers.com.ar/cursos.html">Educacion It.</a><br>
 Soy una persona resolutiva, positiva, alegre, organizada, comprometida, autodidacta y con grandes ganas de trabajar y seguir aprendiendo.
 <!--Soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br> -->
 <!--Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
