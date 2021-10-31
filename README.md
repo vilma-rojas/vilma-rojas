@@ -2,7 +2,7 @@
 <p>
 Soy estudiante de Ingeniería en Sistemas de Información en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>
 Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación y también tengo interés en la parte cloud.<br> 
-Actualmente me encuentro en formación con el programa de <a target="_blank" href="https://aws.amazon.com/es/training/restart/">AWS Re/Start</a> por parte de Amazon Web Services & Potrero Digital, y cursando la carrera de Desarrollador en Java de <a target="_blank" href="http://digitalers.com.ar/cursos.html">Educacion It.</a><br>
+Actualmente me encuentro en formación con el programa de <a target="_blank" href="https://aws.amazon.com/es/training/restart/">AWS Re/Start</a> por parte de Amazon Web Services & Potrero Digital, y cursando la carrera de Desarrollador Java de <a target="_blank" href="http://digitalers.com.ar/cursos.html">Educacion It.</a><br>
 Soy una persona resolutiva, positiva, organizada,  perseverante, autodidacta, alegre y con grandes ganas de trabajar y seguir aprendiendo.
 <!--Soy desarrolladora Full Stack, con residencia en Buenos Aires, Argentina. <br> -->
 <!--Soy un estudiante de Ingeniería en Sistemas de Información de 24 años en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br> 
@@ -25,6 +25,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
 
 ## Tecnologías 💻
 <p>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"></img>
     <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img src="https://img.shields.io/badge/Hibernate-%232C3454.svg?style=flat-badge&logo=hibernate"></img>
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
