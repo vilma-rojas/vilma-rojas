@@ -58,6 +58,9 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     <!--<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-badge&logo=postgresql&logoColor=white"></
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>-->
+    <!-- Java Back End Crud-->
+    <a target="_blank" href="https://gestion-clientes.netflity"><img src="https://img.shields.io/badge/Gestion%20Clientes-543DE0?style=for-the-badge"></img></a><br>
+    <!-- Carrito Compras-->
     <a target="_blank" href="https://vilma-rojas.github.io/carrito-compras/"><img src="https://img.shields.io/badge/Carrito%20Compras-1572B6?style=for-the-badge"></img></a><br>
     <!-- Imax Ventas-->
     <a target="_blank" href="https://vilma-rojas.github.io/imax-ventas/"><img src="https://img.shields.io/badge/IMAX%20VENTAS-%23008080.svg?style=for-the-badge"></img></a> <br>
