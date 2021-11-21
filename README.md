@@ -26,7 +26,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
 
 ## Tecnologías 💻
 <p>
-    <!--<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws"></img>-->
+    <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws"></img>
     <!--<img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
     <img src="https://img.shields.io/badge/Hibernate-%232C3454.svg?style=flat-badge&logo=hibernate"></img>-->
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
@@ -42,7 +42,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></img>
-    <!--<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img> -->
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img>
 </p>
 
 ## Proyectos 📚
