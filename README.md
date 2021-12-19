@@ -66,7 +66,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     <a target="_blank" href="https://vilma-rojas.github.io/carrito-compras/"><img src="https://img.shields.io/badge/Carrito%20Compras-1572B6?style=for-the-badge"></img></a><br>
     <!-- Imax Ventas-->
     <a target="_blank" href="https://vilma-rojas.github.io/imax-ventas/"><img src="https://img.shields.io/badge/IMAX%20VENTAS-%23008080.svg?style=for-the-badge"></img></a> <br>
-    <a target="_blank" href="https://vilma-rojas.github.io/imax-ventas/"><img src="images/imax-ventas.jpg"></img></a>
+    <a target="_blank" href="https://vilma-rojas.github.io/imax-ventas/"><img src="images/imax-ventas.jpg"></a>
    <!-- <strong>TIPO: </strong>Pagina Estática.  <br>-->
     <!--<strong>LENGUAJES UTILIZADOS: </strong> 
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"></img>
