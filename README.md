@@ -16,7 +16,7 @@ La programación es algo que realmente me apasiona, encuentro muy entretenido ha
 Obtenga más información sobre mí y no dude en conectarse conmigo.
 </p>
 <p>
-    <a target="_blank" href="https://tienda-movil.github.io/"><img src="https://img.shields.io/badge/PORTAFOLIO--100000?style=for-the-badge"></img></a> 
+    <a target="_blank" href="https://tienda-movil.github.io/"><img src="https://img.shields.io/badge/PORTAFOLIO-100000?style=for-the-badge"></img></a> 
     <!--<a target="_blank" href="https://vilma-rojas.github.io"><img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=./images/usuario.png"></img></a>-->
     <a target="_blank" href="mailto:vilma.rojflo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
     <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
