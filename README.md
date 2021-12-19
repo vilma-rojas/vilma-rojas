@@ -77,6 +77,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img></p>
     <!-- Imax Ventas-->
     <p><a target="_blank" href="https://vilma-rojas.github.io/imax-ventas/"><img src="https://img.shields.io/badge/Imax%20Ventas-%23008080.svg?style=for-the-badge"></img></a>
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img></p>
    <!-- <strong>TIPO: </strong>Pagina Estática.  <br>-->
