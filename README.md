@@ -16,12 +16,12 @@ La programación es algo que realmente me apasiona, encuentro muy entretenido ha
 Obtenga más información sobre mí y no dude en conectarse conmigo.
 </p>
 <p>
-    <a target="_blank" href="https://vilma-rojas.github.io"><img src="https://img.shields.io/badge/PORTAFOLIO-330F63?style=for-the-badge&logo=./images/usuario.png"></img></a>
     <a target="_blank" href="mailto:vilma.rojflo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
     <a target="_blank" href="https://www.linkedin.com/in/vilma-rojas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
     <a target="_blank" href="https://t.me/Vilma_rojas"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a> 
     <!--<a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a> A22846? E4405F?-->
-    <a target="_blank" href="https://www.hackerrank.com/vilma_diana"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
+    <!-- <a target="_blank" href="https://www.hackerrank.com/vilma_diana"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a> -->
+    <a target="_blank" href="https://vilma-rojas.github.io"><img src="https://img.shields.io/badge/PORTAFOLIO-330F63?style=for-the-badge&logo=./images/usuario.png"></img></a>
     <a target="_blank" href="https://drive.google.com/file/d/1ZJXAVKA4tccAo-1EtKP6L5lqEpUu44Vk/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculum%20Vitae-A22846?style=for-the-badge&logo=./images/usuario.png"></img></a>
 </p>
 
