@@ -27,8 +27,8 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
 ## Tecnologías 💻
 <p>
     <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws"></img>
-    <!--<img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
-    <img src="https://img.shields.io/badge/Hibernate-%232C3454.svg?style=flat-badge&logo=hibernate"></img>-->
+    <img src="https://img.shields.io/badge/-Spring-239120?style=flat-square&logo=spring"></img>
+    <img src="https://img.shields.io/badge/Hibernate-%232C3454.svg?style=flat-badge&logo=hibernate"></img>--
     <img src="https://img.shields.io/badge/-java-CC342D?style=flat-square&logo=java&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-ReactJs-20232A?style=flat-square&logo=react&logoColor=61DAFB"></img>
     <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
