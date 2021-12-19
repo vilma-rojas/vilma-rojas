@@ -22,6 +22,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     <a target="_blank" href="https://t.me/Vilma_rojas"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a> 
     <!--<a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>-->
     <a target="_blank" href="https://www.hackerrank.com/vilma_diana"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
+    <a target="_blank" href="https://drive.google.com/file/d/1ZJXAVKA4tccAo-1EtKP6L5lqEpUu44Vk/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculum%20Vitae-E4405F?style=for-the-badge&logo=./images/usuario.png"></img></a>
 </p>
 
 ## Tecnologías 💻
