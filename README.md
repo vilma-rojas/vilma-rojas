@@ -62,7 +62,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=white"></img>-->
     <!-- Spring boot productapi-->
-    <p><a target="_blank" href="https://github.com/vilma-rojas/product-api.git"><img src="https://img.shields.io/badge/product-api-543DE0?style=for-the-badge"></img></a></p>
+    <p><a target="_blank" href="https://github.com/vilma-rojas/product-api.git"><img src="https://img.shields.io/badge/product%20api-543DE0?style=for-the-badge"></img></a></p>
     <!-- Carrito Compras-->
     <p><a target="_blank" href="https://vilma-rojas.github.io/carrito-compras/"><img src="https://img.shields.io/badge/Carrito%20Compras-1572B6?style=for-the-badge"></img></a></p>
     <!-- Imax Ventas-->
