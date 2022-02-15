@@ -21,7 +21,7 @@ Obtenga más información sobre mí y no dude en conectarse conmigo.
     <!--<a target="_blank" href="https://t.me/Vilma_rojas"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a> -->
     <!--<a target="_blank" href="https://discord.com/channels/Vilma%20Rojas#3546"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a> A22846? E4405F?-->
     <!-- <a target="_blank" href="https://www.hackerrank.com/vilma_diana"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a> -->
-    <a target="_blank" href="https://vilma-rojas.github.io"><img src="https://img.shields.io/badge/PORTAFOLIO-A22846?style=for-the-badge&logo=./images/usuario.png"></img></a>
+    <a target="_blank" href="https://vilma-rojas.github.io"><img src="https://img.shields.io/badge/Sitio%20Web%20Personal-A22846?style=for-the-badge&logo=./images/usuario.png"></img></a>
     
 </p>
 
